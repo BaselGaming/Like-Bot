@@ -1,6 +1,6 @@
-token=NTE4NDExMzI2MjAxMTM1MTM3.DuQjsA.fkymd-CvwP9X6DUCkjThNnmcg1E
-owner=462038057529507841 
-prefix=A
-game=I love my self , 
+token=NTI1MzUwODQ3MTE1Mjk2NzY4.Dv1Yig.AZIa8KQ_Q9ydjbgbuNBHKxCIlxk
+owner=495676816166617119 
+prefix=L
+game=هدية من باسل 
 stayinchannel=true
 songinstatus=false
